@@ -4,10 +4,8 @@ Welcome to the EG-Shoes website! This project showcases a modern, responsive web
 
 ## 🎥 Video Demonstration
 
-<video width="600" controls>
-  <source src="demo.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+[Watch the demo video](docs/demo.mp4)
+
 
 ## 🌟 Features
 
@@ -18,16 +16,3 @@ Welcome to the EG-Shoes website! This project showcases a modern, responsive web
 - **Interactive Elements**: Features such as hover effects and smooth transitions enhance user experience.
 - **Customer Testimonials**: Showcases feedback from satisfied customers.
 
-## 🚀 Getting Started
-
-Follow these instructions to get a copy of the project up and running on your local machine.
-
-### Prerequisites
-
-- Node.js and npm installed on your system.
-
-### Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/YourUsername/eg-shoes-website.git
